@@ -6,7 +6,7 @@ import sys
 
 #Direccion del Servidor IP y Puerto
 ip ="13.85.31.211"
-port = int("80")
+port = int("8081")
 
 
 # Creando el socket UDP
